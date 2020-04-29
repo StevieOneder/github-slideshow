@@ -2,5 +2,5 @@
 layout: slide
 title:  "Welcome to slide 2"
 ---
-testing 123
+"Can we actually says something important?"
 Use the left arrow to go back
